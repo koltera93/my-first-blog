@@ -13,3 +13,12 @@ python manage.py runserver
 http://127.0.0.1:8000/
 
 http://127.0.0.1:8000/admin/
+
+
+1339 - admin
+1339 - pythonAnywhere
+
+
+
+git commit -m "My Django first commit"
+git push -u origin master
